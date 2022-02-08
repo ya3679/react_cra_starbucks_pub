@@ -476,6 +476,7 @@
                     goTop.stop().fadeOut(1000);
                 }
             });
+            
         }
         quickMenu(){
             let quicTop1 = ($(window).height() - 96)/2;

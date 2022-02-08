@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_cra_starbucks_pub/static/css/main.abd64e84.css",
+    "main.js": "/react_cra_starbucks_pub/static/js/main.ab2e1595.js",
+    "static/js/787.4974fa47.chunk.js": "/react_cra_starbucks_pub/static/js/787.4974fa47.chunk.js",
+    "index.html": "/react_cra_starbucks_pub/index.html",
+    "main.abd64e84.css.map": "/react_cra_starbucks_pub/static/css/main.abd64e84.css.map",
+    "main.ab2e1595.js.map": "/react_cra_starbucks_pub/static/js/main.ab2e1595.js.map",
+    "787.4974fa47.chunk.js.map": "/react_cra_starbucks_pub/static/js/787.4974fa47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.ab2e1595.js"
+  ]
+}
